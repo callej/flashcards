@@ -1,0 +1,102 @@
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+There are no flashcards. Please add some.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Sweden
+The definition of the card:
+Stockholm
+The pair ("Sweden":"Stockholm") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+3
+Print the definition of "Sweden":
+Stockholm
+Correct!
+Print the definition of "Sweden":
+Norway
+Wrong. The right answer is "Stockholm".
+Print the definition of "Sweden":
+Stockholm
+Correct!
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest card is "Sweden". You have 1 errors answering it
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Norway
+The definition of the card:
+Oslo
+The pair ("Norway":"Oslo") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Finland
+The definition of the card:
+Helsinki
+The pair ("Finland":"Helsinki") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+England
+The definition of the card:
+London
+The pair ("England":"London") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Denmark
+The definition of the card:
+Copenhagen
+The pair ("Denmark":"Copenhagen") has been added.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+The card:
+Denmark
+The card "Denmark" already exists.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+How many times to ask?
+5
+Print the definition of "England":
+London
+Correct!
+Print the definition of "Norway":
+Oslo
+Correct!
+Print the definition of "Sweden":
+Stockholm
+Correct!
+Print the definition of "Sweden":
+Stockholm
+Correct!
+Print the definition of "England":
+Oslo
+Wrong. The right answer is "London", but your definition is correct for "Norway".
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are "Sweden", "England". You have 1 errors answering them.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+export
+File name:
+capitals.fc
+5 cards have been saved.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+session1.log
+The log has been saved.
